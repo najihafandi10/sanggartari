@@ -1,0 +1,6 @@
+.logo {
+    max-width: 200px; /* Atur lebar maksimum gambar */
+    height: auto; /* Agar tinggi gambar menyesuaikan secara proporsional */
+    display: block; /* Agar gambar dirender sebagai elemen blok */
+    margin: 0 auto; /* Untuk mengatur gambar di tengah secara horizontal */
+}
