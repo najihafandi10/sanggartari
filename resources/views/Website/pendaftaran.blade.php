@@ -32,7 +32,7 @@
                         <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.1s">
                             <h2 class="display-5 mb-2">Form Pendaftaran Anggota Baru</h2>
                             <p class="mb-4">Silakan lakukan pengajuan anggota pada Sanggar Tari Citraprana Budaya, yang dipimpin oleh seorang guru tari atau instruktur yang berpengalaman, yang mengajar gerakan, teknik, dan ekspresi dalam tarian kepada para anggota sanggar. 
-                                <br><b class="text-warning">No-Rekening Transfer</b> <u>832783728738</u> 
+                                <br><b class="text-warning">No-Rekening Transfer</b> <u>123456</u> 
                             </p>
                             @if (count($errors) > 0)
                                  <div class="alert alert-danger">
